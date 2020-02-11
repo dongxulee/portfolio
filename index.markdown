@@ -2,7 +2,7 @@
 layout: home
 ---
 
-![Branching](./images/background/bg1)
+![Branching](https://raw.githubusercontent.com/dongxulee/portfolio/gh-pages/images/background/bg1.jpg)
 
 ### I lived in Ann Arbor for two years and graduated with a master degree in Quantitative Finance.
 
