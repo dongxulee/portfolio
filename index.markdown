@@ -2,7 +2,7 @@
 layout: home
 ---
 
-
+![Branching](./images/background/bg1)
 
 ### I lived in Ann Arbor for two years and graduated with a master degree in Quantitative Finance.
 
