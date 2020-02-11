@@ -67,6 +67,8 @@ layout: home
         B_{t_{3}}-B_{t_{2}}\\
         \vdots\\
         B_{t_{n}}-B_{t_{n-1}}
+        \end{array}\right]$$
+
         So we could rewrite $$Cov(B,B)$$ as:
            
         $$\Sigma=Cov(B,B)=Cov(A\tilde{B},A\tilde{B})=ACov(\tilde{B},\tilde{B})A^{T}$$
