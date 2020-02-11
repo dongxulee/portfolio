@@ -28,7 +28,7 @@ twitter_username:
 github_username:  dongxulee
 
 # Build settings
-theme: jekyll-theme-primer
+theme: jekyll-theme-primer 
 plugins:
   - jekyll-feed
 
