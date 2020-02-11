@@ -87,7 +87,7 @@ x_{n}
         $$x^{T}\Sigma x=\sum_{k=1}^{n}(t_{k+1}-t_{k})(\sum_{j=k}^{n}x_{k})^{2}$$
             
         Obviously for any vector $$x\in R^{n}$$, we have: $$x^{T}\Sigma x>0$$.
-        Hence the matrix \Sigma is positive definite. 
+        Hence the matrix $$\Sigma$$ is positive definite. 
 
 - I have some collections of pet projects:
     * Predict the probability of a household to participate in stock trading. [link](./_projects/)
