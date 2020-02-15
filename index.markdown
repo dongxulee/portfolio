@@ -19,7 +19,7 @@ layout: home
 - I have some collections of pet projects:
     * Predict the probability of a household to participate in stock trading. [link](./_projects/)
     * Thoughts on stock market. [link](./_projects/)
-    * Two approaches to price binary options. [link](./_projects/)
+    * Two approaches to price binary options. [link](./_projects/binaryOption.pdf)
     * Risk Monitor Program Structure for Trading Strategy. [link](./_projects/)
     * Editing image in an old fashing way. [link](./_projects/) 
 
