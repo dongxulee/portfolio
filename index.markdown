@@ -33,8 +33,8 @@ layout: home
 
 
 ###  Solved a mathematical problem I found interesting:
-       
-    * Question: $$ 0 < t_1 < t_2 < t_3 < ... < t_n $$, show that n by n matrix $$\Sigma$$ with components $$\Sigma_{i,j} = min(t_i,t_j)$$ is a positive definite matrix.
+- Qustion:       
+    * $$ 0 < t_1 < t_2 < t_3 < ... < t_n $$, show that n by n matrix $$\Sigma$$ with components $$\Sigma_{i,j} = min(t_i,t_j)$$ is a positive definite matrix.
     * Proof:
         The definition of positive definite: for any vector $$ x \in R^n$$ we have $$x^T \Sigma x > 0 $$.
         To begin with, define the brownian motion $$B_{t}$$, then $$B_{t}$$ follows a normal distibution with mean 0 and variance of t. 
