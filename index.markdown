@@ -17,13 +17,22 @@ layout: home
 
 
 - I have some collections of pet projects:
-    * Predict the probability of a household to participate in stock trading. [link](./_projects/)
-    * Thoughts on stock market. [link](./_projects/)
-    * Two approaches to price binary options. [link](./_projects/binaryOption.pdf)
-    * Risk Monitor Program Structure for Trading Strategy. [link](./_projects/)
-    * Editing image in an old fashing way. [link](./_projects/) 
+    * Predict the probability of an american household to participate in stock trading. [Still under development](./_projects/)
+    * Portfolio simulation project based on the data from yahoo finance. [Still under developement](./projects/)
+    * Reduce dimensionality of US Treasury dataset. [link](./files/treasury.pdf)
+    * Two approaches to price binary options. [link](./files/binaryOption.pdf)
+    * Thoughts on stock market. [link](https://leodongxu.wixsite.com/quant/single-post/2017/07/12/Thoughts-on-stock-market)    
+    * Risk Monitor Program Structure for Trading Strategy. [Still under improvememt](./_projects/)
+    * Review of two C++ projects on image editing and service simulation. 
+        * [image editing](./files/imageEditing.pdf)
+        * [service simulation](./files/serviceSimulation.pdf)
 
-- Solved a mathematical problem I found interesting:
+         
+         
+
+
+
+###  Solved a mathematical problem I found interesting:
        
     * Question: $$ 0 < t_1 < t_2 < t_3 < ... < t_n $$, show that n by n matrix $$\Sigma$$ with components $$\Sigma_{i,j} = min(t_i,t_j)$$ is a positive definite matrix.
     * Proof:
