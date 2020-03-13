@@ -88,7 +88,7 @@
 
 Sample timeseries labor income plot (for 20 households): 
 
-![sampleLaborIncomeTimeSeries](/Users/lee/Desktop/sampleLaborIncomeTimeSeries.png)
+![sampleLaborIncomeTimeSeries](./sampleLaborIncomeTimeSeries.png)
 
 Average Income plot through years:
 
@@ -106,7 +106,7 @@ year
 2017    48526.321338
 ```
 
-![averageIncome](/Users/lee/Desktop/averageIncome.png)
+![averageIncome](./averageIncome.png)
 
 Average investmentAmount(value of stocks) plot through years:
 
@@ -124,7 +124,7 @@ year
 2017    85350.660922
 ```
 
-![investmentAmount](/Users/lee/Desktop/investmentAmount.png)
+![investmentAmount](./investmentAmount.png)
 
 Average expenditure data plot through years:
 
@@ -142,7 +142,7 @@ year
 2017    35466.241521
 ```
 
-![expenditure](/Users/lee/Desktop/expenditure.png)
+![expenditure](./expenditure.png)
 
 Average total wealth plot through years:
 
@@ -160,7 +160,7 @@ year
 2017    325448.128738
 ```
 
-![wealth](/Users/lee/Desktop/wealth.png)
+![wealth](./wealth.png)
 
 Average personal annuity or IRA value plot through time:
 
@@ -178,5 +178,5 @@ year
 2017    84070.374050
 ```
 
-![IRA](/Users/lee/Desktop/IRA.png)
+![IRA](./IRA.png)
 
