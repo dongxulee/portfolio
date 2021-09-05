@@ -17,7 +17,7 @@ layout: home
 
 
 - I have some collections of pet projects:
-    * endogenous stock market participation and wealth accumulation: a life-cycle model perspective. [Still under development](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3875829)
+    * Endogenous stock market participation and wealth accumulation: a life-cycle model perspective. [Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3875829)
     * Portfolio simulation project based on the data from yahoo finance. [Still under developement](./projects/)
     * Reduce dimensionality of US Treasury dataset. [link](./files/treasury.pdf)
     * Two approaches to price binary options. [link](./files/binaryOption.pdf)
