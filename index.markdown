@@ -17,7 +17,7 @@ layout: home
 
 
 - I have some collections of pet projects:
-    * Predict the probability of an american household to participate in stock trading. [Still under development](./_projects/)
+    * endogenous stock market participation and wealth accumulation: a life-cycle model perspective. [Still under development](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3875829)
     * Portfolio simulation project based on the data from yahoo finance. [Still under developement](./projects/)
     * Reduce dimensionality of US Treasury dataset. [link](./files/treasury.pdf)
     * Two approaches to price binary options. [link](./files/binaryOption.pdf)
@@ -28,7 +28,7 @@ layout: home
         * [service simulation](./files/serviceSimulation.pdf)
 
          
-         
+        
 
 
 
@@ -38,9 +38,9 @@ layout: home
     * Proof:
         The definition of positive definite: for any vector $$ x \in R^n$$ we have $$x^T \Sigma x > 0 $$.
         To begin with, define the brownian motion $$B_{t}$$, then $$B_{t}$$ follows a normal distibution with mean 0 and variance of t. 
-          
+        
         From the memoryless property of brownian motion, we have $$Cov(B_{t_{i}},B_{t_{j}})=min(t_{i},t_{j})$$ , then we cound write the $$\Sigma$$ as $$Cov(B,B)$$, where B is a n by 1 vector:
-           
+        
         $$\begin{array}{cccccccc}
         B & = & \left[\begin{array}{c}
         B_{t_{1}}\\
@@ -79,32 +79,32 @@ layout: home
         \end{array}\right]$$
 
         So we could rewrite $$Cov(B,B)$$ as:
-           
+        
         $$\Sigma=Cov(B,B)=Cov(A\tilde{B},A\tilde{B})=ACov(\tilde{B},\tilde{B})A^{T}$$
                
         From the independent property of Brownian motion, $$B_{t_{1}}, B_{t_{2}}-B_{t_{1}},B_{t_{3}}-B_{t_{2}}, ... , B_{t_{n}}-B_{t_{n-1}}$$ are multually independent, then:   
-           
+        
         $$\Sigma=ACov(\tilde{B},\tilde{B})A^{T}=A\cdot diag\{t_{1},t_{2}-t_{1},t_{3}-t_{2},...,t_{n}-t_{n-1}\}\cdot A^{T}$$
-           
+        
         Finally for any vector $$x\in R^{n}$$, we have:   
-           
+        
         $$x^{T}\Sigma x=x^{T}(A\cdot diag\{t_{1},t_{2}-t_{1},t_{3}-t_{2},...,t_{n}-t_{n-1}\}\cdot A^{T})x$$
-           
+        
         Which is:   
-           
+        
         $$x^{T}\Sigma x=(A^{T}x)^{T}\cdot diag\{t_{1},t_{2}-t_{1},t_{3}-t_{2},...,t_{n}-t_{n-1}\}\cdot(A^{T}x)$$
-           
+        
         We could calculate:
-           
+        
         $$A^{T}x=\left[\begin{array}{c}
         x_{1}+x_{2}+...+x_{n}\\
         x_{2}+...+x_{n}\\
         \vdots\\
         x_{n}
         \end{array}\right]$$
-           
+        
         To further simplify:
-           
+        
         $$x^{T}\Sigma x=\sum_{k=1}^{n}(t_{k+1}-t_{k})(\sum_{j=k}^{n}x_{k})^{2}$$
             
         Obviously for any vector $$x\in R^{n}$$, we have: $$x^{T}\Sigma x>0$$.
