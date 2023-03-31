@@ -1,1 +1,1 @@
-![Branching](./images/banksBalance/boa.png)
+![Branching](../images/banksBalance/boa.png)
