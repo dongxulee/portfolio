@@ -26,7 +26,7 @@ layout: home
     * Review of two C++ projects on image editing and service simulation. 
         * [image editing](./files/imageEditing.pdf)
         * [service simulation](./files/serviceSimulation.pdf)
-    * A dive into the banks balance sheet. [link](./files/banksBalancesheet.markdown)
+    * A dive into the banks balance sheet. [link](./files/banksBalancesheet.md)
 
          
         
