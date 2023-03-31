@@ -1,4 +1,4 @@
-### 4 largest banks in the US
+# 4 largest banks in the US
 
 ![Branching](../images/banksBalance/boa.png)
 
@@ -8,14 +8,14 @@
 
 ![Branching](../images/banksBalance/wellsFargo.png)
 
-### regional banks
+# Regional banks
 ![Branching](../images/banksBalance/firstRepublicBank.png)
 
 ![Branching](../images/banksBalance/signitureBank.png)
 
 ![Branching](../images/banksBalance/siliconVallyBank.png)
 
-### investment banks
+# Investment banks
 ![Branching](../images/banksBalance/goldman.png)
 
 ![Branching](../images/banksBalance/morganStanley.png)
