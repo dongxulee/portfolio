@@ -27,8 +27,8 @@ layout: home
         * [image editing](./files/imageEditing.pdf)
         * [service simulation](./files/serviceSimulation.pdf)
     * A dive into the banks balance sheet. 
-        [Asset Part](./files/banksBalancesheetAsset.md)
-        [Liability Part](./files/banksBalancesheetLiability.md)
+        * [Asset Part](./files/banksBalancesheetAsset.md)
+        * [Liability Part](./files/banksBalancesheetLiability.md)
 
          
         
