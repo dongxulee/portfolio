@@ -4,16 +4,11 @@ layout: home
 
 ![Branching](https://raw.githubusercontent.com/dongxulee/portfolio/gh-pages/images/background/bg3.jpg)
 
-### I lived in Ann Arbor for two years and graduated with a master degree in Quantitative Finance.
-
-### I am living in New York now pursing a PHD in Financial Engineering.
-
-### I watch a lot movies and I used to run a weekly movie night.
-
+### I am living in New York now and I watch a lot movies and I used to run a weekly movie night.
 
 ### I have a more detailed [résumé](./dongxuli.pdf) if you're into that sort of thing.
 
-### I write code sometimes and I am into mathematics and finance.
+### I am into mathematics, coding and finance.
 
 
 - I have some collections of pet projects:
